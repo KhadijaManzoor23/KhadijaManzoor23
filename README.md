@@ -169,42 +169,6 @@ class AboutMe:
 | ⚽ **FIFA Data Viz** | Exploratory analysis & visualization of synthetic FIFA data | Jupyter, Python, Pandas |
 | 📊 **SQL Sales Analysis** | SQL-based analysis of product sales data | SQL |
 
-</div>
-
-<div align="center">
-  <a href="https://github.com/KhadijaManzoor23/catalog-scraper"><img src="https://img.shields.io/badge/Catalog_Scraper-C0C0C0?style=for-the-badge&logo=python&logoColor=black" alt="Catalog Scraper"/></a>
-  <a href="https://github.com/KhadijaManzoor23/TASK-6Visualization"><img src="https://img.shields.io/badge/FIFA_Viz-C0C0C0?style=for-the-badge&logo=jupyter&logoColor=black" alt="FIFA Viz"/></a>
-  <a href="https://github.com/KhadijaManzoor23/SQL-Based-Analysis-of-Product-Sales"><img src="https://img.shields.io/badge/SQL_Analysis-C0C0C0?style=for-the-badge&logo=mysql&logoColor=black" alt="SQL Analysis"/></a>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=KhadijaManzoor23&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&card_width=380" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhadijaManzoor23&theme=synthwave&hide_title=true&hide_border=true&card_width=380" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-manzoor-8b8887303)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijamehar617@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhadijaManzoor23&theme=synthwave&hide_title=true&hide_border=true&card_width=380" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
 
 ### 📫 Let's Connect
 
