@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=KHADIJA%20MANZOOR&fontSize=60&fontColor=E4CAB5&animation=fadeIn" width="100%"/>
 </div>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=600&lines=DATA+SCIENCE+%26+AI+ENGINEER;BIG+DATA+%7C+BLOCKCHAIN+%7C+AUTOMATION;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=600&lines=DATA+SCIENCE+%26+AI+ENGINEER;BIG+DATA+%7C+AUTOMATION;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing SVG" />
 </h3>
 <p align="center">
-  <a href="https://abdurrehman7045.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abdur-rehman-581305358?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/abdur-codes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;<a href="mailto:abdur.dev@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/abdur-rehman-581305358?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/abdur-codes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;<a href="mailto:khadijamehar617@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -14,19 +14,13 @@
 
 ```python
 class AboutMe:
-    name = "Abdur Rehman"
+    name = "KHADIJA MANZOOR"
     education = "BS Data Science"
-    specialization = "AI/ML | Big Data | Smart Contracts"
+    specialization = "AI/ML | Big Data"
     
     def current_focus(self):
         return "Building AI-powered pipelines & decentralized apps"
-    
-    def say_hello(self):
-        print("Thanks for stopping by! Check out my work below 👇")
 ```
-
-> 🌐 **[Explore my portfolio →](https://abdurrehman7045.netlify.app/)**
-
 ---
 
 ### 🛠️ Tech Stack
@@ -103,7 +97,7 @@ class AboutMe:
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rehman-581305358?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur.dev@outlook.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijamehar617@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer&animation=fadeIn" width="100%"/>
 
